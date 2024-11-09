@@ -1,0 +1,8 @@
+{
+  "apps" : [{
+    "name"        : "nglink-app",
+    "script"      : "anonymous_msg_bot.py",
+    "interpreter" : "/home/landry/Dev/Python/MyPythoncripts-1/.venv/bin/python",
+    "watch"       : false
+  }]
+}
